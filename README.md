@@ -138,7 +138,7 @@ Integrated Razorpay Payment Gateway (backend + frontend).
 
 ### 🤝 Author
 
-**Chandu** 👨‍💻  
+**Nikitha** 👨‍💻  
 
 **🎓 Student**  
 **💻 Java Developer**  
